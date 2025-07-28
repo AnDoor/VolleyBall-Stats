@@ -34,10 +34,6 @@ Una aplicación web completa para la gestión y análisis de equipos de volleyba
 - **Recharts** - Visualizaciones de datos interactivas
 - **Lucide React** - Iconografía consistente
 
-### Backend & IA
-- **Vercel AI SDK** - Integración con modelos de IA
-- **Google Gemini** - Modelo de lenguaje avanzado
-
 ### Características Técnicas
 - **Responsive Design** - Optimizado para desktop, tablet y móvil
 - **Server Components** - Renderizado optimizado del lado del servidor
