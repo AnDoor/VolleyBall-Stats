@@ -60,6 +60,18 @@ pnpm install
 ### 3. Iniciar programa
 npm run dev
 
+### En caso de error por la version de ReactJS seguir:
+### 1. Desinstalar React 19
+npm uninstall react react-dom
+
+### 2. Instalar React 18 (más estable y compatible)
+npm install react@^18.2.0 react-dom@^18.2.0
+
+### 3. Limpiar caché y reinstalar
+npm cache clean --force
+
+### 4. eliminar carpeta node_modules
+npm install
 
 
 
