@@ -1,6 +1,6 @@
 # 🏐 VolleyStats - Portal Deportivo de Volleyball
 
-Una aplicación web completa para la gestión y análisis de equipos de volleyball femenino, con inteligencia artificial integrada para entrenamiento personalizado.
+Una aplicación web completa para la gestión y análisis de equipos de volleyball, con inteligencia artificial integrada para entrenamiento personalizado.
 
 ## 🌟 Características Principales
 
@@ -12,7 +12,7 @@ Una aplicación web completa para la gestión y análisis de equipos de volleyba
 - **Gestión por posiciones** (Armadora, Opuesta, Central, Receptora, Libero)
 
 ### 🤖 Entrenador Virtual con IA
-- **Chatbot especializado** en volleyball powered by Google Gemini
+- **Chatbot especializado** en volleyball
 - **Biblioteca de ejercicios visuales** con más de 8 ejercicios detallados
 - **Recomendaciones personalizadas** según posición y nivel
 - **Planes de entrenamiento** adaptados a cada jugadora
@@ -25,9 +25,7 @@ Una aplicación web completa para la gestión y análisis de equipos de volleyba
 - **Rankings internos** (top anotadoras, rematadoras, bloqueadoras)
 - **Análisis FODA** automático del equipo
 
-
 ## 🚀 Tecnologías Utilizadas
-
 ### Frontend
 - **Next.js 15** - Framework React con App Router
 - **TypeScript** - Tipado estático para mayor robustez
@@ -47,14 +45,11 @@ Una aplicación web completa para la gestión y análisis de equipos de volleyba
 - **Type Safety** - Tipado completo en TypeScript
 - **Modern UI/UX** - Interfaz intuitiva y profesional
 
-
 ## ⚙️ Instalación
 
 ### 1. Clonar el Repositorio
 
 git clone <url-del-repositorio>
-
-
 
 ### 2. Instalar Dependencias
 
